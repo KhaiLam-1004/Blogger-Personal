@@ -62,14 +62,14 @@ body{
 #banner{
     margin-top: 54px;
     width: 100%;
-    height: 400px;
+    height: 600px;
    /* border: 1px solid grey;*/
-    background-image: url(img/montanha2.jpg);
+    background-image: url(img/anh4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
-
+    
 .container-main{
     display: flex;
    /* border: 1px solid grey;*/
